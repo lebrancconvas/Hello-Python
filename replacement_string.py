@@ -22,3 +22,16 @@ def replaced_string():
     print(">> ",replaced)
 
 replaced_string()
+
+"""
+Code Result:
+
+WARNNING!! your word should be the word that occur in your line sentence.
+Input your line sentence :  Speaking Gently
+Input your word :  Gently
+Input your replacement word :  Rudely
+
+OUTPUT SHOW!!!
+>>  Speaking Rudely
+
+"""
