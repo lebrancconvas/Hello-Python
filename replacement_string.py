@@ -24,7 +24,7 @@ def replaced_string():
 replaced_string()
 
 """
-Code Result:
+Result:
 
 WARNNING!! your word should be the word that occur in your line sentence.
 Input your line sentence :  Speaking Gently
