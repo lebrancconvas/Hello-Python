@@ -1,0 +1,3 @@
+def slice():
+    a = "InfinityStone"
+
